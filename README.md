@@ -27,4 +27,4 @@ ________________________________________________________________________________
     linear_model (Logistic Regression)
     metrics (classification report,accuracy_score)
 
-#### The final accuracy achieved on the Logistic Regression is 90.63 %.
+#### The final accuracy achieved on the Logistic Regression is 91.63 %.
