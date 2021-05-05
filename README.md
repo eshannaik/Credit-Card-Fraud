@@ -6,7 +6,7 @@
 ________________________________________________________________________________________________________________________
 #### The main objective of this project is to predict Credit Card Fraud using Autoencoders and Losgistic Regression.
 #### This project consists of a Encoder made up of 2 Dense Layers and a Decoder made up of 2 Dense layers
-#### This project also consists of a few visualizations.
+#### The project also consists of a few visualizations using TSNE.
 #### The libraries that have been used are :
     Pandas
     Numpy
@@ -26,3 +26,5 @@ ________________________________________________________________________________
     model_selection (train_test_split)
     linear_model (Logistic Regression)
     metrics (classification report,accuracy_score)
+
+#### The final accuracy achieved on the Logistic Regression is 90.63 %
