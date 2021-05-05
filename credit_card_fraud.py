@@ -106,7 +106,7 @@ hr.add(autoencoder.layers[0])
 hr.add(autoencoder.layers[1])
 hr.add(autoencoder.layers[2])
 
-normal = hr.predict(x_nf[:3000])
+normal = hr.predict(x_nf[:6000])
 fraud = hr.predict(x_f)
 
 rep_x = np.append(normal, fraud, axis = 0)
