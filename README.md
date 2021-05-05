@@ -1,7 +1,7 @@
 # Credit-Card-Fraud
 
 #### This project was dont on google Colab.
-#### Dataset for this project was got from kaggle.
+#### Dataset for this project was got from https://www.kaggle.com/mlg-ulb/creditcardfraud.
 
 ________________________________________________________________________________________________________________________
 #### The main objective of this project is to predict Credit Card Fraud using Autoencoders and Losgistic Regression.
